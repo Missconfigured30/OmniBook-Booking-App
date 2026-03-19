@@ -124,7 +124,7 @@ lib/
 ## Getting Started
 
 1. Clone the repository:  
-git clone https://github.com/YOUR_USERNAME/omnibook.git  
+git clone [https://github.com/Missconfigured30/OmniBook-Booking-App.git  ]
 
 2. Navigate to the project directory:  
 cd omnibook  
